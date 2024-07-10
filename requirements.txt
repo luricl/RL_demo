@@ -1,0 +1,5 @@
+gymnasium==0.29.1
+jupyter==1.0.0
+flappy_bird_gymnasium==0.4.0
+tensorflow==2.16.2
+pygame==2.6.0
